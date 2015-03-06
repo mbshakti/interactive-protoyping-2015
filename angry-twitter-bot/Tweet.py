@@ -1,6 +1,7 @@
 from cred import settings
 import twitter
 import time
+import cronjobz
 
 consumer_key = settings['consumer_key']
 consumer_secret = settings['consumer_secret']
